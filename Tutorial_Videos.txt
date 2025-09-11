@@ -1,0 +1,40 @@
+(Agile Development) Jira Workboards 6h26m56s -> https://www.youtube.com/watch?v=bjrfzIeljZU 
+(Agile Development) Scrum Process 4h05m20s -> https://www.youtube.com/watch?v=g5zHKHf2a88
+
+(Design) Figma | Wireframing | Mockup | Design 1h26m20 -> https://www.youtube.com/watch?v=c9Wg6Cb_YlU
+(Beginner UI) HTML5 | CSS3 11h30m52s -> https://www.youtube.com/watch?v=mU6anWqZJcc 
+(Beginner Programming) JavaScript 7h44m19s -> https://www.youtube.com/watch?v=jS4aFq5-91M
+(Inline-Annotations) JSDocs 0h36m31s -> https://youtu.be/YK-GurROGIg
+(Version Control) Git & GitHub 5h08m40s -> https://www.youtube.com/watch?v=KMOmw19ZCGs
+(Type Safety) TypeScript 77 VIDEO PLAYLIST -> https://www.youtube.com/playlist?list=PL_euSNU_eLbfJEwuNa43lM89yfev537Mj
+(Type Safety) TypeScript Object Oriented Principles 8 VIDEO PLAYLIST -> https://www.youtube.com/watch?v=HsWKyERYGKQ&list=PLn4fTSbSpY5eY_M1mKWxGa9pViEodofKy 
+
+(Specifications) Unified Modeling Language 92 VIDEO PLAYLIST -> https://www.youtube.com/watch?v=RRXe1omEGWQ&list=PL94J1fEOXPO2Lqq2ZrB22ke-Ls_O_Niu2
+(Specifications) C4 Model 35m32s -> https://www.youtube.com/watch?v=x2-rSnhpw0g 
+(Specifications) OpenAPI 1h0m55s -> https://www.youtube.com/watch?v=6kwmW_p_Tig
+(Specifications) Redfish 25 VIDEO PLAYLIST -> https://www.youtube.com/playlist?list=PLYnID7pHm2W7otc5-qC2TV7Q3qG7N2T_x
+(Specifications) OData Protocol 51m06s -> https://www.youtube.com/watch?v=oQWkZ-n0SZk
+
+(UI: Advanced) JavaScript | React 19h29m36s -> https://www.youtube.com/watch?v=0mVbNp1ol_w
+(UI: Advanced) TypeScript | React 25 VIDEO PLAYLIST -> https://www.youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK 
+(Testing: UI) React & Jest 57m18s -> https://www.youtube.com/watch?v=7r4xVDI2vho 
+(Node: REST API) JavaScript | Node.js | Express.js | MongoDB 6h50m41s -> https://www.youtube.com/watch?v=f2EqECiTBL8
+(Testing: API) JavaScript | Mocha.js | Chai.js | Istanbul.js 10 VIDEO PLAYLIST -> https://www.youtube.com/playlist?list=PLgbtO1Bcz4C-vU0JLfDBsZGbSUdNX4mQ8
+(Database Administration: SQL) PostgreSQL 11h26m28s -> https://www.youtube.com/watch?v=Ir7nScz_Vs4
+(Database Administration: SQL) Flyway & Versioning 11m43s -> https://www.youtube.com/watch?v=ovG1wgEqE10
+(Node: ORM) Sequelize 49m58s -> https://www.youtube.com/watch?v=3qlnR9hK-lQ
+(Node: REST API) TypeScript | Express.js | Sequelize | Splite3 1h12m28s -> https://www.youtube.com/watch?v=yFgrSJGNj0E
+(Full Stack: Moderate) JavaScript | PostgreSQL | Express.js | React | Node.js 6h20m17s -> https://www.youtube.com/watch?v=J01rYl9T3BU 
+(Full Stack: Advanced) TypeScript | React | GraphQL | Apollo | Node.js | PostgreSQL | TypeORM | Redis | Next.js 13h59m02s -> https://www.youtube.com/watch?v=I6ypD7qv3Z8 
+(Hosting & Deployment) Heroku 43m49s -> https://www.youtube.com/watch?v=ZJxUOOND5_A 
+(Headless-CMS) JavaScript | Puppeteer 11 VIDEO PLAYLIST -> https://www.youtube.com/playlist?list=PL6tu16kXT9Pp4nyF6XrHIB79ezFmyZVUA
+(Data Visualization) D3.js 11h37m15s -> https://www.youtube.com/watch?v=2LhoCfjm8R4  
+
+(Hosting) Amazon Web Services [AWS] 11h26m42s -> https://www.youtube.com/watch?v=ZB5ONbD_SMY 
+(Hosting) Google Cloud Platform [GCP] 7h39m42s -> https://www.youtube.com/watch?v=IUU6OR8yHCc
+(Hosting) Microsoft Azure 7h58m46s -> https://www.youtube.com/watch?v=tDuruX7XSac
+(Hosting) AWS CLI 1h0m59s -> https://www.youtube.com/watch?v=PWAnY-w1SGQ
+(Virtualization) Docker 5h16m45s -> https://www.youtube.com/watch?v=RSIstPUiEjY
+(Virtualization & Scaling) Docker | Kubernetes 4h17m59s -> https://www.youtube.com/watch?v=Wf2eSG3owoA 
+(CI/CD/CT) Jenkins 2h52m44s -> https://www.youtube.com/watch?v=nCKxl7Q_20I
+(Hosting: Advanced) Terraform 2h38m03s -> https://www.youtube.com/watch?v=7xngnjfIlK4
