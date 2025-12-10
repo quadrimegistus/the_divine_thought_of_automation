@@ -5,7 +5,7 @@ Diagrams and documentation for the genesis of the Divine Thought of Automation.
 # Design-to-Code Infrastructure
 
 * Parse any .xml UI design into a functioning React / Angular / Vue component without the need to type any logic.
-* Parse any C4 Model diagram into functional API components in any programming language without the need to type any logic.
+* Parse any C4 Model diagram into functional API components in any programming language without the need to type any logic, or create any Code level C4 Model diagrams.
 * Parse any .csv Abstract Profile into functional parameters that define all configuration requirements for software without the need to type any logic.
 
 # End Result
