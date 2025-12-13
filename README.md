@@ -17,6 +17,6 @@ Diagrams and documentation for the genesis of the Divine Thought of Automation.
 * Defeat competing technology companies as your ship time of deliverables is instant. Literally as soon as a Product Designers and Product Owners complete and submit requests the customer immediately receives the deliverable, same day.
 
 
-Integrate the depicted precision level design environment with OpenAI conversational wrapper for bare minimum definition of Artificial Super Intelligence. Train AI on design-to-code infrastrcture. AI delivers completed technology from design down. AI is demonstrably smarter than the majority of the human race. Software Engineers become obsolete, except for furthering the science of Automation, as all product work is permanently automated. Incorporate virtual keyboard and virtual mouse for AI to develop the best definitions of perfect precision utilizing existing logic specifications.
+Integrate the depicted precision level design environment with OpenAI conversational wrapper for bare minimum definition of Artificial Super Intelligence. Train AI on design-to-code infrastrcture. AI delivers completed technology from design down. AI is demonstrably smarter than the majority of the human race. Software Engineers become obsolete, except for furthering the science of Automation, as all product work is permanently automated. Incorporate virtual keyboard and virtual mouse for AI to train upon and develop the best definitions of perfect precision utilizing existing logic specifications.
 
 
