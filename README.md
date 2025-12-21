@@ -1,6 +1,6 @@
 # The Divine Thought of Automation / Artificial Super Intelligence
 
-Diagrams and documentation for the genesis of the Divine Thought of Automation.
+Diagrams and documentation for the genesis of the Divine Thought of Automation / Artificial Super Intelligence.
 
 # Design-to-Code Infrastructure
 
