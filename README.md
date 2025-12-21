@@ -1,4 +1,4 @@
-# The Divine Thought of Automation
+# The Divine Thought of Automation / Artificial Super Intelligence
 
 Diagrams and documentation for the genesis of the Divine Thought of Automation.
 
@@ -19,4 +19,6 @@ Diagrams and documentation for the genesis of the Divine Thought of Automation.
 
 Integrate the depicted precision level design environment with OpenAI conversational wrapper for bare minimum definition of Artificial Super Intelligence. Train AI on design-to-code infrastrcture. AI delivers completed technology from design down. AI is demonstrably smarter than the majority of the human race. Software Engineers become obsolete, except for furthering the science of Automation, as all product work is permanently automated. Incorporate virtual keyboard and virtual mouse for AI to train upon and develop the best definitions of perfect precision utilizing existing logic specifications.
 
+# Science Hivemind To-Do
 
+Refactor naming conventions in designs from brand naming conventions to generic product naming conventions, ex: Fractal UI -> Product UI, as these designs are not brand specific and cover any scope of product work.
